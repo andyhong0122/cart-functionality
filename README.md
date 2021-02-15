@@ -1,1 +1,1 @@
-# cart-counter-icon
+# cart-counter
